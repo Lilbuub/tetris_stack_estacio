@@ -1,15 +1,15 @@
 🧱 Tetris Stack Simples
 
-Jogo simples utilizando apenas python
+# Jogo simples utilizando apenas python
 
-# Como executar:
+ Como executar:
 
-Abra o terminal no diretório do jogo
+# Abra o terminal no diretório do jogo
 
-# Execute:
+ Execute:
 
 python jogo_tetris_stack.py
 
-# Objetivo
+ Objetivo
 
 Fazer as peças caírem e empilharem no tabuleiro simulando um tetris
